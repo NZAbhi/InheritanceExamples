@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skogen", "Skogen.csproj", "{5D74EE26-FC14-47C7-8097-B29EC57196C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D74EE26-FC14-47C7-8097-B29EC57196C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D74EE26-FC14-47C7-8097-B29EC57196C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D74EE26-FC14-47C7-8097-B29EC57196C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D74EE26-FC14-47C7-8097-B29EC57196C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36D75908-D4D6-4DBE-A9A5-8AC28A7648E1}
+	EndGlobalSection
+EndGlobal
